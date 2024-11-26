@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258636095864",
+    "project_id": "movapp-a3808",
+    "storage_bucket": "movapp-a3808.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258636095864:android:825b540d9b5b60913ca88d",
+        "android_client_info": {
+          "package_name": "com.rohmanbeny.mov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCObt6jRmNHqnjA4Jxs43YY56-mOrYNQP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
